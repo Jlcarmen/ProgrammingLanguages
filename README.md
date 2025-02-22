@@ -2,6 +2,7 @@
 
 # Video presentation canva 
 https://drive.google.com/drive/folders/1jaYbDAervOVUxcFyJmmwHQlTTeooOs1V
+https://www.canva.com/design/DAGfzeKOqbA/xxW-1M6CReJSS43jLgWO9A/view?utm_content=DAGfzeKOqbA&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
 
 
 Code Snippets
